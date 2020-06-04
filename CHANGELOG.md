@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/TheBrooks/gradle-release-test/compare/v1.1.0...v1.2.0) (2020-06-04)
+
+
+### Features
+
+* trololol ([3364180](https://github.com/TheBrooks/gradle-release-test/commit/3364180))
+
 # [1.1.0](https://github.com/TheBrooks/gradle-release-test/compare/v1.0.0...v1.1.0) (2020-06-03)
 
 
